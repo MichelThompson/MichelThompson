@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Michel!
 
-![DevOps GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
-
 ### Sobre mim
 - 🌱 Atualmente estou estudando para me tornar DevOps
 - 🎂 Tenho 25 anos
@@ -33,10 +31,3 @@
 ---
 
 ![Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-```python
-# Código de boas-vindas
-def welcome():
-    print("Bem-vindo ao meu GitHub!")
-
-welcome()
