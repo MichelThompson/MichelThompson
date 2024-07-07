@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Michel!
 
-<!--
-**MichelThompson/MichelThompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![DevOps GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
-Here are some ideas to get you started:
+### Sobre mim
+- 🌱 Atualmente estou estudando para me tornar DevOps
+- 🎂 Tenho 25 anos
+- 📍 Sou de São Bernardo do Campo, São Paulo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Minhas habilidades
+- **DevOps:** Docker, Kubernetes, CI/CD, Jenkins, AWS, Azure
+- **Programação:** Python, Bash, Go
+- **Ferramentas:** Git, Terraform, Ansible
+
+### 📚 Estudos Atuais
+- 📘 Ansible para automação
+- 📙 Kubernetes para orquestração de contêineres
+- 📗 Terraform para infraestrutura como código
+
+### 📈 Objetivos
+- 🌐 Contribuir para projetos open source
+- 🏆 Obter certificações em AWS e Kubernetes
+- 📅 Participar de eventos e conferências de tecnologia
+
+### 🛠️ Projetos em destaque
+- [**Projeto DevOps**](https://github.com/seu-usuario/projeto-devops): Automação de deploy com Jenkins e Kubernetes
+- [**Infraestrutura como Código**](https://github.com/seu-usuario/projeto-terraform): Criação de infraestrutura com Terraform
+
+### 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- [Twitter](https://twitter.com/seu-usuario)
+
+---
+
+![Coder GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+```python
+# Código de boas-vindas
+def welcome():
+    print("Bem-vindo ao meu GitHub!")
+
+welcome()
